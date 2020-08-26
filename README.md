@@ -22,6 +22,4 @@ Welcome to my profile :sunglasses:
 - :iphone: Technology lover
 - :books: I’m currently learning JavaScript
 - 📫 How to reach me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/brenoavcellos/" />][instagram]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-vasconcellos-0323511ab)](https://www.linkedin.com/in/breno-vasconcellos-0323511ab)
