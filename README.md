@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 # Breno Vasconcellos | Front-end Developer :computer:
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-vasconcellos-0323511ab)](https://www.linkedin.com/in/breno-vasconcellos-0323511ab)
+
 ### Hi there 👋
 Welcome to my profile :sunglasses:
 
@@ -22,5 +24,5 @@ Welcome to my profile :sunglasses:
 - :iphone: Technology lover
 - :books: I’m currently learning JavaScript
 - 📫 How to reach me:
-<b> 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-vasconcellos-0323511ab)](https://www.linkedin.com/in/breno-vasconcellos-0323511ab)
+
+
