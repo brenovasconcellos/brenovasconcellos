@@ -23,4 +23,4 @@ Welcome to my profile :sunglasses:
 - :books: I’m currently learning JavaScript
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-vasconcellos-0323511ab)](https://www.linkedin.com/in/breno-vasconcellos-0323511ab)
-<img src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/> https://www.instagram.com/brenoavcellos/
+<img src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/https://www.instagram.com/brenoavcellos/> 
