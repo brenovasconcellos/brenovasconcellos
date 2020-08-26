@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 # Breno Vasconcellos | Front-end Developer :computer:
 
-[![Linkedin Badge](https://www.linkedin.com/in/breno-vasconcellos-0323511ab)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-vasconcellos-0323511ab)](https://www.linkedin.com/in/breno-vasconcellos-0323511ab)
