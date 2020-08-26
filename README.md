@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Breno Vasconcellos - Front-end Developer :computer:
+# Breno Vasconcellos | Front-end Developer :computer:
+
+[![Linkedin Badge](https://www.linkedin.com/in/breno-vasconcellos-0323511ab)
