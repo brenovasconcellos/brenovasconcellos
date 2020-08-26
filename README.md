@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **brenovasconcellos/brenovasconcellos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +15,12 @@ Here are some ideas to get you started:
 
 # Breno Vasconcellos | Front-end Developer :computer:
 
+### Hi there 👋
+Welcome to my profile :sunglasses:
+
+- :computer: I'm information technology student and currently i'm working on some front-end development projects
+- :iphone: Technology lover
+- :books: I’m currently learning JavaScript
+- 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-vasconcellos-0323511ab)](https://www.linkedin.com/in/breno-vasconcellos-0323511ab)
+<img src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/> https://www.instagram.com/brenoavcellos/
