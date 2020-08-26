@@ -23,8 +23,8 @@ Welcome to my profile :sunglasses:
 - :computer: I'm information technology student and currently i'm working on some front-end development projects
 - :iphone: Technology lover
 - :books: I’m currently learning JavaScript
-### :wrench: Languages and Tools: 
-
+- :wrench: Languages and Tools: 
+<br>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 
