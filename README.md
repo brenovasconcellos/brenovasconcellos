@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 ### Hi there 👋
 Welcome to my profile :sunglasses:
 
-- :computer: I'm information technology student and currently i'm working on some front-end development projects
+### :smile: About me:
+I'm information technology student and currently i'm working on some front-end development projects
 - :iphone: Technology lover
 - :books: I’m currently learning JavaScript
-- :wrench: Languages and Tools: 
 
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+### :wrench: Languages and Tools: 
+
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 
