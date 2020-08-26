@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-vasconcellos-0323511ab)](https://www.linkedin.com/in/breno-vasconcellos-0323511ab)
 
-### Hi there 👋
+### Hi there 👋 and Hello World :earth_americas:
 Welcome to my profile :sunglasses:
 
-### :smile: About me:
+### :octocat: About me:
 I'm information technology student and currently i'm working on some front-end development projects
 - :iphone: Technology lover
 - :books: I’m currently learning JavaScript
