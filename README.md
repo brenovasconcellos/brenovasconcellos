@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Breno Vasconcellos | Mobile App Developer :computer:
+# Breno Vasconcellos | Mobile Engineer :iphone:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-vasconcellos-0323511ab)](https://www.linkedin.com/in/breno-vasconcellos-0323511ab)
 
@@ -23,7 +23,7 @@ Welcome to my profile
 ### :octocat: About me:
 - :mortar_board: I'm information technology student 
 - 📊 Currently i'm working on some front-end development projects
-- :iphone: Technology lover
+- :computer: Technology lover
 - :book: i reallly like to learn
 
 ### :books: I’m currently learning:
