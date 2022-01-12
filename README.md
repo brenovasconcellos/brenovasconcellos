@@ -20,12 +20,6 @@ Here are some ideas to get you started:
 ### Hi there and Hello World :earth_americas: 
 Welcome to my profile
 
-<div align="center">
-  <a href="https://github.com/brenovasconcellos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenovasconcellos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenovasconcellos&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ### :octocat: About me:
 - :mortar_board: I'm information technology student 
 - 📊 Currently i'm working on some mobile development projects
