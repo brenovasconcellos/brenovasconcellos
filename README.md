@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Breno Vasconcellos | Mobile Engineer :iphone:
+# Breno Vasconcellos | Front End Engineer :iphone:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-vasconcellos-0323511ab)](https://www.linkedin.com/in/breno-vasconcellos-0323511ab)
 
@@ -21,33 +21,29 @@ Here are some ideas to get you started:
 Welcome to my profile
 
 ### :octocat: About me:
-- :mortar_board: I'm information technology student 
-- 📊 Currently i'm working on some mobile development projects
+- :mortar_board: Technologist in System Analysis and Development 
 - :computer: Technology lover
 - :book: i reallly like to learn
 
-### :books: I’m currently learning:
+### :books: I’m working on:
 
-I study constantly and always keep myself updated on new technologies to keep myself prepared for the technology market. Now i'm studying the following technologies and tools:
+Currently, I'm working as iOS Developer at Iscool App. Plus, some projects of my own can be seen here in my repo.
 
-- [x] Design Pattern: MVVM
-- [x] Scrum
-- [x] iOS Unit Testing and UI Testing
+- [x] JavaScript, ES6+
+- [x] ReactJS
 
 ### :wrench: Languages and Tools: 
 
-- [x] Swift
-- [x] iOS SDK
-- [x] SwiftUI
-- [x] ARKit
-- [x] Cocoa Touch
-- [x] Cocoapods
-- [x] Swift Package Manager
-- [x] Realm Database
-- [x] Firebase
-- [X] Design Pattern: MVC
-- [x] Git.
+- [x] HTML5
+- [x] CSS3
+- [x] JavaScript, ES6+
+- [x] Git Flow
+- [x] Scrum
+- [x] Kanban
 
 ### 🌱 What i intend to study: 
 
-- React Native
+- Typescript;
+- Material UI;
+- NextJS;
+- Redux;
