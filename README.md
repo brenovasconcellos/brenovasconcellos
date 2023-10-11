@@ -29,21 +29,15 @@ Welcome to my profile
 
 Currently, I'm working as iOS Developer at Iscool App. Plus, some projects of my own can be seen here in my repo.
 
-- [x] JavaScript, ES6+
-- [x] ReactJS
-
 ### :wrench: Languages and Tools: 
 
-- [x] HTML5
-- [x] CSS3
-- [x] JavaScript, ES6+
+- [x] Swift
+- [x] UIKit
+- [x] SwiftUI
+- [x] Core Data
+- [x] HTML
+- [x] CSS
+- [x] JavaScript
 - [x] Git Flow
 - [x] Scrum
 - [x] Kanban
-
-### 🌱 What i intend to study: 
-
-- Typescript;
-- Material UI;
-- NextJS;
-- Redux;
